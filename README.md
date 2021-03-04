@@ -1,9 +1,4 @@
 <p align="center">
- <a href="https://www.frozensoftgames.com">
-  YO
-  </a>
-</p>
-<p align="center">
   <a href="https://github.com/eiromplays">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/eiromplays" alt="GitHub badge" />
   </a>
