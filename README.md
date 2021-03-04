@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://www.frozensoftgames.com">
-    <img src="https://github.com/brunohbrito/brunohbrito/blob/master/foote.png?raw=true" alt="Blog" />
+  YO
   </a>
 </p>
 <p align="center">
