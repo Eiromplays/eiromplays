@@ -14,3 +14,8 @@
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=eiromplays&show_icons=true&theme=tokyonight&count_private=true" /></p>
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiromplays&theme=tokyonight&layout=compact" /></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/eiromplays/count.svg" />
+</p>
