@@ -141,7 +141,7 @@ Coming soon.
 <br/>  
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zdm4gvpziccmae1xp2et72acs" alt="Spotify recently played." height="450" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zdm4gvpziccmae1xp2et72acs" alt="Spotify recently played." />
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=zdm4gvpziccmae1xp2et72acs&cover_image=true&theme=default" alt="Spotify currently playing." />
 </div> 
 <br/>  
