@@ -18,7 +18,7 @@
 - ❓ Ask me about C#, ASP.NET Core, Blazor and Unity  
   
 
-- ⚡ Fun fact: ** I like coffee **  
+- ⚡ Fun fact: **I like coffee**  
   
 
 <br/>  
