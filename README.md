@@ -125,18 +125,13 @@
 <br/>  
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=eiromplays&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" />  
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiromplays&hide_border=true&layout=compact&theme=dark" align="center" />
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=eiromplays&theme=onedark" align="center" height="150" width="" />
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eiromplays&theme=dark" align="left" height="150" width="" />  
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Eiromplays&theme=dark" align="center" height="150" width="" />
-
+<div align="center">  
+<img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=eiromplays&show_icons=true&count_private=true&hide_border=true&theme=dark" /> 
+<img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiromplays&hide_border=true&layout=compact&theme=dark" />
+<img style="margin: 10px;" src="https://github-profile-trophy.vercel.app/?username=eiromplays&theme=onedark" height="150" />
+<img style="margin: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=eiromplays&theme=dark" height="150" />
+<img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eiromplays&theme=dark" height="150" />
+</div>
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
