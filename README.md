@@ -126,16 +126,16 @@
 
 ## Github Stats  
 <div align="center">  
-<img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=eiromplays&show_icons=true&count_private=true&hide_border=true&theme=dark" /> 
-<img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiromplays&hide_border=true&layout=compact&theme=dark" />
-<img style="margin: 10px;" src="https://github-profile-trophy.vercel.app/?username=eiromplays&theme=onedark" height="150" />
-<img style="margin: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=eiromplays&theme=dark" height="150" />
-<img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eiromplays&theme=dark" height="150" />
+<img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=eiromplays&show_icons=true&count_private=true&hide_border=true&theme=dark" /> 
+<img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiromplays&hide_border=true&layout=compact&theme=dark" />
+<img style="margin: 5px;" src="https://github-profile-trophy.vercel.app/?username=eiromplays&theme=onedark" height="150" />
+<img style="margin: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=eiromplays&theme=dark" height="150" />
+<img style="margin: 5px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eiromplays&theme=dark" height="150" />
 </div>
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+Coming soon.
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -147,7 +147,6 @@ If things goes well, this section should automatically be replaced by a list of 
 ### Support Me  
 <div align="center"><a href="https://www.buymeacoffee.com/eiromplays"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eiromplays" /></a><br /></div>  
   
-
 <br/>  
 
 <div align="center">
